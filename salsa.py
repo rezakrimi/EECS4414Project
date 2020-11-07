@@ -10,7 +10,7 @@ with open('company_investor_undirected.pkl', 'rb') as file:
     G = pickle.load(file)
 
 
-CIRCLE_SIZE = 50
+CIRCLE_SIZE = 20
 ref_personalization = {}
 
 for node in G.nodes:
@@ -21,8 +21,7 @@ for node in G.nodes:
 # betweenness_centrality = sorted(betweenness_centrality.items(), key=lambda x: x[1])
 # print(betweenness_centrality)
 # print(G.nodes[betweenness_centrality[-1][0]]['type'])
-# Tencent Holdings has the highest betweenness_centrality
-
+# Tencent Holdings has the highest betweenness_centrality and degree_centrality and closeness_centrality and eigenvector_centrality
 
 # ppr for all investors
 # for key in ref_personalization:
@@ -31,7 +30,8 @@ for node in G.nodes:
 #     ppr = nx.pagerank(G, personalization=personalization)
 #     print(ppr)
 
-th_ppr = ppr('Tencent Holdings')
+query = 'Temasek Holdings'
+th_ppr = ppr(query)
 th_ppr = sorted(th_ppr.items(), key=lambda x: x[1], reverse=True)
 hubs = []
 for ppr in th_ppr:
@@ -51,5 +51,5 @@ print(sub_graph.number_of_edges())
 hubs, auths = nx.hits(sub_graph, max_iter=1000)
 auths = sorted(auths.items(), key=lambda x: x[1], reverse=True)
 for a in auths:
-    if G.nodes[a[0]]['type'] == 'company' and a[0] not in G.neighbors('Tencent Holdings'):
+    if G.nodes[a[0]]['type'] == 'company' and a[0] not in G.neighbors(query):
         print(a[0])
