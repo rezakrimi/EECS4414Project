@@ -10,7 +10,7 @@ with open('company_investor_undirected.pkl', 'rb') as file:
     G = pickle.load(file)
 
 
-CIRCLE_SIZE = 20
+CIRCLE_SIZE = 18
 ref_personalization = {}
 
 for node in G.nodes:
@@ -30,7 +30,7 @@ for node in G.nodes:
 #     ppr = nx.pagerank(G, personalization=personalization)
 #     print(ppr)
 
-query = 'Temasek Holdings'
+query = 'Goldman Sachs'
 th_ppr = ppr(query)
 th_ppr = sorted(th_ppr.items(), key=lambda x: x[1], reverse=True)
 hubs = []
@@ -48,7 +48,7 @@ for h in hubs:
 sub_graph = nx.subgraph(G, hubs+list(auths))
 print(sub_graph.number_of_nodes())
 print(sub_graph.number_of_edges())
-hubs, auths = nx.hits(sub_graph, max_iter=1000)
+hubs, auths = nx.hits(sub_graph, max_iter=20000)
 auths = sorted(auths.items(), key=lambda x: x[1], reverse=True)
 for a in auths:
     if G.nodes[a[0]]['type'] == 'company' and a[0] not in G.neighbors(query):
