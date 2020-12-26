@@ -1,291 +1,164 @@
-Roblox
-Missfresh E-Commerce
-Mafengwo
-MiningLamp
-Yuanfudao
-PolicyBazaar
-WeWork China
-Ola
-G7
-Ziroom
-Epic Games
-Farmers Business Network
-Tuhu
-Keep
-WeDoctor
-RenRenChe
-Zhihu
-Dream11
-Hike
-Wish
-Apeel Sciences
-Samsara
-Databricks
-OfferUp
-BYJU’S
-Zuoyebang
-Tanium
-JD Logistics
-Tencent Trusted Doctors
-Manbang Group
-Luoji Siwei
-Medlinker
-Miaoshou Doctor
-SoundHound Inc.
-InVisionApp
-N26
-Snyk
-Magic Leap
-Improbable
-Fanatics
-Discord
-BenevolentAI
-Flywire
-17zuoye
-VANCL
-Toast
-Avant
-Blend
-Nextdoor
-Lookout
-TripActions
-Actifio
-The We Company
-Automation Anywhere
-Pendo
-Checkr
-Zenefits
-Quora
-Billdesk
-Yipin Fresh
-iCarbonX
-UBTech Robotics
-BYTON
-New Leshi Smart Home
-T3 Mobile Travel Services
-WeBank
-Koudai
-Momenta
-DXY
-Seasun
-Xiaohongshu
-Lianjia
-LY.com
-Kik
-Krafton
-Coocaa
-Swiggy
-Waterdrop
-CMC
-Zhuanzhuan
-Yijiupi
-Udaan
-VNG
-Lilium
-Furong Xingsheng
-VIPKID
-ClassPass
-Impossible Foods
-Goat Group
-AvidXchange
-Rent the Runway
-Omio
-BuzzFeed
-Opendoor
-D2iq
-Ginkgo Bioworks
-AppsFlyer
-Chime
-Bright Health
-Allbirds
-Ripple
-Dialpad
-Udacity
-Sprinklr
-Anduril Industries
-RigUp
-Danke Apartment
-Gusto
-Applied Intuition
-GitLab
-HeadSpin
-Zocdoc
-Oscar Health
-KLOOK
-Shanghai ANE Logistics
-Qumulo
-Perfect Diary
-Lime
-Dianrong
-Rapyd
-Fivetran
-SentinelOne
-Rubicon
-wefox Group
-Automattic
-Podium
-Seismic
-Scale AI
-One97
-StockX
-Pine Labs
-Iwjw
-Poshmark
-Snapdeal
-Lazada Group
-Tokopedia
-UST Global
-FirstCry
-GetYourGuide
-Trumid
-Duolingo
-Souche
-Flexport
-Turo
-Desktop Metal
-Intercom
-Rippling
-Bukalapak
-Vox Media
-Doctolib
-Squarespace
-TransferWise
-Coinbase
-Loft
-Illumio
-Carta
-Instabase
-Cross River Bank
-DigitalOcean
-DFINITY
-Devoted Health
-Deliveroo
-Convoy
-Affirm
-Hello TransTech
-Suning Sports
-VAST Data
-Zymergen
-Northvolt
-Huasheng Haoche
-AUTO1 Group
-KnowBe4
-Lu.com
-Infinidat
-GP Club
-Unqork
-Remitly
-MediaMath
-Marqeta
-Acronis
-OutSystems
-Redis Labs
-Aihuishou
-Ivalua
-JUUL
-Dataiku
-PAX Labs
-Ola Electric
-DataRobot
-VTEX
-Delhivery
-Meicai
-Procore
-Quikr
-Ninebot
-Toss
-Compass
-DJI
-Brex
-XANT.ai
-ezCater
-Monzo
-Away
-MessageBird
-QuintoAndar
-Gymshark
-Riskified
-FlixBus
-Quizlet
-Mu Sigma
-dLocal
-Kavak
-NuCom Group
-NetEase Cloud Music
-Saxo Bank
-Grove Collaborative
-Gympass
-Red Ventures
-Rivian
-Warby Parker
-Tempus
-HashiCorp
-Wheels Up
-ServiceTitan
-Sweetgreen
-Taobao Movie
-ofo
-Alibaba Bendi Shenghuo Fuwu Gongsi
-Orbbec
-MEGVII
-Lucid Software
-KeepTruckin
-Sana Biotechnology
-SambaNova Systems
-SoFi
-Deposit Solutions
-Branch
-Canva
-Niantic
-Airbnb
-SpaceX
-Roivant Sciences
-Hims
-ASR Microelectronics
-Genki Forest
-Pop Mart
-Lalamove
-Mia.com
-Plus.ai
-WeLab
-Jollychic
-Zhaogang.com
-JD MRO
-4Paradigm
-Mobvoi
-Leapmotor
-TuSimple
-POIZON
-Yitu Technology
-FabFitFun
-QuantumScape
-LegalZoom
-v2 Ventures
-Coursera
-Miaopai
-InMobi
-Xiaozhu.com
-Razorpay
-Yidao Yongche
-OakNorth
-Yanolja
-SmartMi International Limited
-QuEST Global Services
-Checkout.com
-Oxford Nanopore Technologies
-Celonis
-goPuff
-BlaBlaCar
-Vinted
-Sharecare
-HeartFlow
-Patreon
-The Honest Company
-Dataminr
-ACV
-Mozido
-Alto Pharmacy
-Auth0
-Guild Education
-Outreach
-Talkdesk
+Roblox 57.14285714285714%
+Ola 28.57142857142857%
+MiningLamp 28.57142857142857%
+Yuanfudao 28.57142857142857%
+Mafengwo 28.57142857142857%
+G7 28.57142857142857%
+PolicyBazaar 28.57142857142857%
+Dream11 28.57142857142857%
+Missfresh E-Commerce 28.57142857142857%
+Hike 28.57142857142857%
+VANCL 28.57142857142857%
+17zuoye 28.57142857142857%
+BYTON 14.285714285714285%
+Luoji Siwei 14.285714285714285%
+Epic Games 14.285714285714285%
+VIPKID 14.285714285714285%
+CMC 14.285714285714285%
+Xiaohongshu 14.285714285714285%
+Kik 14.285714285714285%
+Momenta 14.285714285714285%
+Zhihu 14.285714285714285%
+Coocaa 14.285714285714285%
+Yijiupi 14.285714285714285%
+SoundHound Inc. 14.285714285714285%
+Tencent Trusted Doctors 14.285714285714285%
+Manbang Group 14.285714285714285%
+Waterdrop 14.285714285714285%
+RenRenChe 14.285714285714285%
+DXY 14.285714285714285%
+Swiggy 14.285714285714285%
+Keep 14.285714285714285%
+Medlinker 14.285714285714285%
+N26 14.285714285714285%
+Seasun 14.285714285714285%
+Koudai 14.285714285714285%
+Tuhu 14.285714285714285%
+JD Logistics 14.285714285714285%
+iCarbonX 14.285714285714285%
+BYJU’S 14.285714285714285%
+New Leshi Smart Home 14.285714285714285%
+Miaoshou Doctor 14.285714285714285%
+LY.com 14.285714285714285%
+Lianjia 14.285714285714285%
+Furong Xingsheng 14.285714285714285%
+Zhuanzhuan 14.285714285714285%
+WeDoctor 14.285714285714285%
+UBTech Robotics 14.285714285714285%
+T3 Mobile Travel Services 14.285714285714285%
+Lilium 14.285714285714285%
+Ziroom 14.285714285714285%
+Krafton 14.285714285714285%
+Discord 14.285714285714285%
+WeBank 14.285714285714285%
+Yipin Fresh 14.285714285714285%
+Udaan 14.285714285714285%
+VNG 14.285714285714285%
+Magic Leap 28.57142857142857%
+Apeel Sciences 28.57142857142857%
+Fanatics 28.57142857142857%
+Improbable 28.57142857142857%
+Samsara 28.57142857142857%
+Actifio 28.57142857142857%
+OfferUp 28.57142857142857%
+Databricks 28.57142857142857%
+Impossible Foods 28.57142857142857%
+Farmers Business Network 28.57142857142857%
+ClassPass 28.57142857142857%
+Danke Apartment 28.57142857142857%
+Toast 28.57142857142857%
+Nextdoor 28.57142857142857%
+Snyk 28.57142857142857%
+HeadSpin 28.57142857142857%
+Udacity 28.57142857142857%
+Ripple 28.57142857142857%
+Dialpad 28.57142857142857%
+Flywire 14.285714285714285%
+Wish 14.285714285714285%
+WeWork China 14.285714285714285%
+Billdesk 14.285714285714285%
+Omio 14.285714285714285%
+BenevolentAI 14.285714285714285%
+Lazada Group 14.285714285714285%
+Poshmark 14.285714285714285%
+AvidXchange 14.285714285714285%
+FirstCry 14.285714285714285%
+Pine Labs 14.285714285714285%
+Sprinklr 14.285714285714285%
+Blend 14.285714285714285%
+GetYourGuide 14.285714285714285%
+Tokopedia 14.285714285714285%
+Snapdeal 14.285714285714285%
+UST Global 14.285714285714285%
+Iwjw 14.285714285714285%
+Rent the Runway 14.285714285714285%
+Aihuishou 14.285714285714285%
+Ola Electric 14.285714285714285%
+InVisionApp 14.285714285714285%
+Rapyd 14.285714285714285%
+Bright Health 14.285714285714285%
+Ivalua 14.285714285714285%
+Quikr 14.285714285714285%
+PAX Labs 14.285714285714285%
+Delhivery 14.285714285714285%
+Avant 14.285714285714285%
+Procore 14.285714285714285%
+Dataiku 14.285714285714285%
+Chime 14.285714285714285%
+Zuoyebang 14.285714285714285%
+Quora 14.285714285714285%
+JUUL 14.285714285714285%
+Pendo 14.285714285714285%
+Perfect Diary 14.285714285714285%
+VTEX 14.285714285714285%
+Allbirds 14.285714285714285%
+DataRobot 14.285714285714285%
+Dianrong 14.285714285714285%
+Meicai 14.285714285714285%
+Automattic 14.285714285714285%
+SentinelOne 14.285714285714285%
+Devoted Health 14.285714285714285%
+TripActions 14.285714285714285%
+Coinbase 14.285714285714285%
+Fivetran 14.285714285714285%
+Carta 14.285714285714285%
+RigUp 14.285714285714285%
+DigitalOcean 14.285714285714285%
+Applied Intuition 14.285714285714285%
+D2iq 14.285714285714285%
+Lime 14.285714285714285%
+Lookout 14.285714285714285%
+Instabase 14.285714285714285%
+Loft 14.285714285714285%
+TransferWise 14.285714285714285%
+Goat Group 14.285714285714285%
+Opendoor 14.285714285714285%
+Tanium 14.285714285714285%
+Anduril Industries 14.285714285714285%
+Illumio 14.285714285714285%
+DFINITY 14.285714285714285%
+BuzzFeed 14.285714285714285%
+Cross River Bank 14.285714285714285%
+Zenefits 14.285714285714285%
+Orbbec 14.285714285714285%
+MEGVII 14.285714285714285%
+One97 14.285714285714285%
+Hello TransTech 14.285714285714285%
+Souche 14.285714285714285%
+ofo 14.285714285714285%
+Alibaba Bendi Shenghuo Fuwu Gongsi 14.285714285714285%
+Bukalapak 14.285714285714285%
+Taobao Movie 14.285714285714285%
+Lucid Software 14.285714285714285%
+KeepTruckin 14.285714285714285%
+Gusto 14.285714285714285%
+SambaNova Systems 14.285714285714285%
+Intercom 14.285714285714285%
+Flexport 14.285714285714285%
+StockX 14.285714285714285%
+Desktop Metal 14.285714285714285%
+GitLab 14.285714285714285%
+Sana Biotechnology 14.285714285714285%
+Turo 14.285714285714285%
+Podium 14.285714285714285%
+Checkr 14.285714285714285%
